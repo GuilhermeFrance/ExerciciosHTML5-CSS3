@@ -1,0 +1,16 @@
+rgb(87, 126, 138)
+.insta:hover{
+
+    background-color: transparent;
+    border: 2px solid   rgb(23, 201, 255);
+    color: rgb(23, 201, 255);
+    cursor: pointer;
+
+<img class="instas" src="instagram.png" alt="">
+
+gap: 30px;
+    text-align: left;
+    font-size: 27px;
+    padding-top: 400px;
+    padding-left: 340px;
+   }
